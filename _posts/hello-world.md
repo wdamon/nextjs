@@ -1,8 +1,8 @@
 ---
-title: 'Hello world'
-excerpt: 'hello world!!.'
+title: 'Introducing Preception'
+excerpt: 'A blog about two dharma students exploring the precepts'
 coverImage: '/assets/blog/hello-world/winter_landscape.jpg'
-date: '2020-03-16T05:35:07.322Z'
+date: '2021-01-9T05:35:07.322Z'
 author:
   name: Will Damon
   picture: '/assets/blog/authors/will.jpg'
