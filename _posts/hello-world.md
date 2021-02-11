@@ -2,7 +2,7 @@
 title: 'Introducing Preception'
 excerpt: 'A blog about two dharma students exploring the precepts'
 coverImage: '/assets/blog/hello-world/winter_landscape.jpg'
-date: '2021-01-9T05:35:07.322Z'
+date: '2021-01-09T22:39:05Z'
 author:
   name: Will Damon
   picture: '/assets/blog/authors/will.jpg'
@@ -10,10 +10,13 @@ ogImage:
   url: '/assets/blog/hello-world/winter_landscape.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Hello and welcome to Preception, a blog about the precepts. We hope this is a space where fellow dharma students can share their experiences and deepen their practice. We plan on offering monthly podcasts and occasional (1-2 a month) blog posts. These posts will range from free form essays exploring topics related to precepts and our Buddhist practice to book reviews and links to dharma talks and other context we enjoy.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+Now, a few words of warning. Your hosts are not dharma teachers, just fellow travellers sharing some reports from their journey. We welcome any and all feedback you might have.
 
-## Lorem Ipsum
+## About the authors
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Evan S. is a Canadian English teacher, writer and meditator who lives in Stockholm, Sweden. Before going into education, Evan studied English and French literature, worked as a copywriter, and volunteered as a crisis counsellor and mindfulness instructor. He has practiced meditation for several years, mostly in the Soto Zen tradition. In 2018, he received jukai at Mountain Rain Zen Community in Vancouver, BC. In the past five years, he has facilitated various meditation groups, mostly for young people and those in recovery from addiction. As a teacher, his areas of interest include prosocial education, mindfulness, and teaching for social justice. Spiritually, he is interested in the relationship between religion and place, and the power of meditation to inform and inspire our politics, creative practices, and relationships.   
+
+Will is a Canadian american living in Toronto. He currently works as a software developer at Shopify. In the past he has worked at a granola factory, in a jail, and as a public health researcher in Vancouver. He has studied the dharma for almost nine years now, mostly at Mountain Rain Zen Community in Vancouver. He loves all things fantasy and science fiction, middle English literature, and computers.
+
