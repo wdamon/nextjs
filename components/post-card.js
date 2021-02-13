@@ -15,7 +15,7 @@ export default function PostCard({
   type
 }) {
   return (
-    <div className={`mb-5 border-solid border-4 border-${borderColorByType[type]}`}>
+    <div className={`mb-5 border-solid border-4 ${type === 'blog' ? 'border-saffron': 'border-zen-green'}`}>
       <div >
         <CoverImage
           slug={slug}
@@ -32,7 +32,7 @@ export default function PostCard({
           <a className="hover:underline">{title}</a>
         </Link>
       </h3>
-     <span class= {`inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-white bg-${borderColorByType[type]} rounded-full mb-3`}>
+     <span class= {`inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-white ${type === 'blog' ? 'bg-saffron': 'bg-zen-green'} rounded-full mb-3`}>
         {type}
      </span>
 

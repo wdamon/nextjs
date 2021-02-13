@@ -1,5 +1,10 @@
 module.exports = {
-  purge: ['./components/**/*.js', './pages/**/*.js'],
+  purge: {
+    content: ['./components/**/*.js', './pages/**/*.js'],
+     // options: {
+      // safelist: [/\-saffron\-/, /\-zen-green\-/],
+    // },
+  },
   fontFamily: {
       sans: ['Graphik', 'sans-serif'],
       serif: ['Merriweather', 'serif'],
