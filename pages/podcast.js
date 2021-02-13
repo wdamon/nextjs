@@ -28,6 +28,7 @@ export default function Preception ({allPosts}) {
               author={heroPost.author}
               slug={heroPost.slug}
               excerpt={heroPost.excerpt}
+              type={"podcast"}
             />
           )}
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}

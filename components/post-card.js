@@ -2,11 +2,8 @@ import Avatar from '../components/avatar'
 import DateFormatter from '../components/date-formatter'
 import CoverImage from './cover-image'
 import Link from 'next/link'
+import {borderColorByType, urlRootByType} from '../lib/constants'
 
-const borderColorByType = {
-  "blog": "saffron",
-  "podcast": "zen-green",
-}
 
 export default function PostCard({
   title,
@@ -26,11 +23,12 @@ export default function PostCard({
           src={coverImage}
           height={135}
           width={278}
+          type={type}
         />
       </div>
       <div className="p-5 ">
       <h3 className="text-3xl  leading-snug">
-        <Link as={`/posts/${slug}`} href="/posts/[slug]">
+        <Link as={`/${urlRootByType[type]}/${slug}`} href={`/${urlRootByType[type]}/[slug]`}>
           <a className="hover:underline">{title}</a>
         </Link>
       </h3>
