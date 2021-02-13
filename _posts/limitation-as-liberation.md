@@ -8,6 +8,7 @@ author:
   picture: '/assets/blog/authors/Evan_author.jpg'
 ogImage:
   url: '/assets/blog/limitation-as-liberation/Ice_shards.jpg'
+type: 'blog'
 ---
 
 Limitation as Liberation: Discovering the Buddhist Precepts

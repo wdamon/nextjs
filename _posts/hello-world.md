@@ -8,6 +8,7 @@ author:
   picture: '/assets/blog/authors/will.jpg'
 ogImage:
   url: '/assets/blog/hello-world/winter_landscape.jpg'
+type: 'blog'
 ---
 
 Hello and welcome to Preception, a blog about the precepts. We hope this is a space where fellow dharma students can share their experiences and deepen their practice. We plan on offering monthly podcasts and occasional (1-2 a month) blog posts. These posts will range from free form essays exploring topics related to precepts and our Buddhist practice to book reviews and links to dharma talks and other context we enjoy.

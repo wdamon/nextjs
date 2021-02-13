@@ -5,15 +5,15 @@ import PostBody from '../../components/post-body'
 import Header from '../../components/header'
 import PostHeader from '../../components/post-header'
 import Layout from '../../components/layout'
-import { getPostBySlug, getAllPosts } from '../../lib/api'
+import { getEpisodeBySlug, getAllEpisodes } from '../../lib/api'
 import PostTitle from '../../components/post-title'
 import Head from 'next/head'
 import { CMS_NAME } from '../../lib/constants'
 import markdownToHtml from '../../lib/markdownToHtml'
 
-export default function Post({ post, morePosts, preview }) {
+export default function Episode({ episode, moreEpisodes, preview }) {
   const router = useRouter()
-  if (!router.isFallback && !post?.slug) {
+  if (!router.isFallback && !episode?.slug) {
     return <ErrorPage statusCode={404} />
   }
   return (
@@ -27,18 +27,18 @@ export default function Post({ post, morePosts, preview }) {
             <article className="mb-32">
               <Head>
                 <title>
-                  {post.title}
+                  {episode.title}
                 </title>
-                <meta property="og:image" content={post.ogImage.url} />
+                <meta property="og:image" content={episode.ogImage.url} />
               </Head>
               <PostHeader
-                category={'posts'}
-                title={post.title}
-                coverImage={post.coverImage}
-                date={post.date}
-                author={post.author}
+                category={'episodes'}
+                title={episode.title}
+                coverImage={episode.coverImage}
+                date={episode.date}
+                author={episode.author}
               />
-              <PostBody content={post.content} />
+              <PostBody content={episode.content} />
             </article>
           </>
         )}
@@ -48,7 +48,7 @@ export default function Post({ post, morePosts, preview }) {
 }
 
 export async function getStaticProps({ params }) {
-  const post = getPostBySlug(params.slug, [
+  const episode = getEpisodeBySlug(params.slug, [
     'title',
     'date',
     'slug',
@@ -57,12 +57,12 @@ export async function getStaticProps({ params }) {
     'ogImage',
     'coverImage',
   ])
-  const content = await markdownToHtml(post.content || '')
+  const content = await markdownToHtml(episode.content || '')
 
   return {
     props: {
-      post: {
-        ...post,
+      episode: {
+        ...episode,
         content,
       },
     },
@@ -70,13 +70,13 @@ export async function getStaticProps({ params }) {
 }
 
 export async function getStaticPaths() {
-  const posts = getAllPosts(['slug'])
+  const episodes = getAllEpisodes(['slug'])
 
   return {
-    paths: posts.map((post) => {
+    paths: episodes.map((episode) => {
       return {
         params: {
-          slug: post.slug,
+          slug: episode.slug,
         },
       }
     }),
