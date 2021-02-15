@@ -4,7 +4,6 @@ import CoverImage from './cover-image'
 import Link from 'next/link'
 import {borderColorByType, urlRootByType} from '../lib/constants'
 
-
 export default function PostCard({
   title,
   coverImage,
@@ -32,7 +31,7 @@ export default function PostCard({
           <a className="hover:underline">{title}</a>
         </Link>
       </h3>
-     <span class= {`inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-white ${type === 'blog' ? 'bg-saffron': 'bg-zen-green'} rounded-full mb-3`}>
+     <span className= {`inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-white ${type === 'blog' ? 'bg-saffron': 'bg-zen-green'} rounded-full mb-3`}>
         {type}
      </span>
 

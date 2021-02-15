@@ -1,7 +1,7 @@
 import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
 import Container from '../../components/container'
-import PostBody from '../../components/post-body'
+import EpisodeBody from '../../components/episode-body'
 import Header from '../../components/header'
 import PostHeader from '../../components/post-header'
 import Layout from '../../components/layout'
@@ -38,7 +38,7 @@ export default function Episode({ episode, moreEpisodes, preview }) {
                 date={episode.date}
                 author={episode.author}
               />
-              <PostBody content={episode.content} />
+              <EpisodeBody src={episode.source} content={episode.content} />
             </article>
           </>
         )}
@@ -56,6 +56,7 @@ export async function getStaticProps({ params }) {
     'content',
     'ogImage',
     'coverImage',
+    'source',
   ])
   const content = await markdownToHtml(episode.content || '')
 

@@ -1,6 +1,6 @@
 ---
 title: 'The Three Refuges'
-excerpt: 'I take refuge in the Buddha, I take refuge in the Sangha, I take refuge in the Dharma'
+excerpt: 'Episode 1: Taking Refuge'
 coverImage: '/assets/blog/episodes/refuges/heart.jpg'
 date: '2021-02-11'
 author:
@@ -9,7 +9,10 @@ author:
 ogImage:
   url: '/assets/blog/episodes/refuges/heart.jpg'
 type: 'podcast'  
+source: '/assets/blog/episodes/refuges/refuges.mp3'
 ---
 
-Stay tuned...
+I take refuge in the Buddha,
+I take refuge in the Sangha,
+I take refuge in the Dharma.
 
