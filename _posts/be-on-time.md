@@ -1,13 +1,13 @@
 ---
 title: 'Be On Time'
 excerpt: 'Punctuality as Practice'
-coverImage: '/assets/blog/be-on-time/sunset.jpg'
+coverImage: '/assets/blog/be-on-time/Sunset.jpg'
 date: '2021-03-23T22:39:05Z'
 author:
   name: Evan S
   picture: '/assets/blog/authors/Evan_author.jpg'
 ogImage:
-  url: '/assets/blog/be-on-time/sunset.jpg'
+  url: '/assets/blog/be-on-time/Sunset.jpg'
 type: 'blog'
 ---
 
