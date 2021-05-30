@@ -9,6 +9,7 @@ author:
 ogImage:
   url: '/assets/blog/be-on-time/sunset.jpg'
 type: 'blog'
+format: 'vertical'
 ---
 
 
