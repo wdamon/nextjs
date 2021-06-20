@@ -23,6 +23,13 @@ export default function Header() {
               </Link>
             </h2>
            </div>
+           <div>
+              <h2 className="text-2xl md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight mr:px-8">
+               <Link href="/signup">
+                <a className="hover:underline">Newsletter</a>
+              </Link>
+            </h2>
+           </div>
         </div>
       </div>
     </nav>
