@@ -1,8 +1,8 @@
 ---
-title: 'The Three Refuges'
+title: ' Intro to Preception and the Three Refuges'
 excerpt: 'Episode 1: Taking Refuge'
 coverImage: '/assets/blog/episodes/refuges/heart.jpg'
-date: '2021-02-11'
+date: '2021-01-11'
 author:
   name: Will Damon
   picture: '/assets/blog/authors/will.jpg'
