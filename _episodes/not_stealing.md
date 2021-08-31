@@ -1,13 +1,13 @@
 ---
 title: 'Not Stealing'
 excerpt: 'Episode 4'
-coverImage: '/assets/blog/episodes/pure-precepts/plant.jpg'
+coverImage: '/assets/blog/episodes/not_stealing/not_stealing.jpg'
 date: '2021-04-22'
 author:
   name: Evan S
   picture: '/assets/blog/authors/Evan_author.jpg'
 ogImage:
-  url: '/assets/blog/episodes/pure-precepts/plant.jpg'
+  url: '/assets/blog/episodes/not_stealing/not_stealing.jpg'
 type: 'podcast'  
 source: '/assets/blog/episodes/not_stealing/not_stealing.mp3'
 ---
