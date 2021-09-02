@@ -4,7 +4,7 @@ excerpt: 'On the Fourth Precept: Not Lying, But Being Honest'
 coverImage: '/assets/blog/trusting_other_with_the_truth/tractor.jpg'
 date: '2021-08-29'
 author:
-  name: Will Damon
+  name: Evan Stanley
   picture: '/assets/blog/authors/Evan_author.jpg'
 ogImage:
   url: '/assets/blog/trusting_other_with_the_truth/tractor.jpg'
