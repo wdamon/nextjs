@@ -6,6 +6,7 @@ import Intro from '../components/intro'
 import Layout from '../components/layout'
 import PostCard from '../components/post-card'
 import { getAll } from '../lib/api'
+import { generateRSSFeed } from '../lib/rss'
 import Head from 'next/head'
 
 export default function Index({ allPosts }) {
@@ -40,6 +41,7 @@ export default function Index({ allPosts }) {
 }
 
 export async function getStaticProps() {
+
   const allPosts = getAll([
     'title',
     'date',
@@ -47,9 +49,10 @@ export async function getStaticProps() {
     'author',
     'coverImage',
     'excerpt',
-    'type'
+    'type',
+    'source',
   ])
-
+  generateRSSFeed(allPosts);
   return {
     props: { allPosts },
   }

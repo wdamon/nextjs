@@ -5,7 +5,7 @@ import {borderColorByType, urlRootByType} from '../lib/constants'
 
 export default function CoverImage({ title, src, slug, height, width, type, format }) {
   var objectFit = (format === 'vertical') ? 'contain' : 'cover'
- console.log(objectFit)
+
   const image = (
     <Image
       src={src}
