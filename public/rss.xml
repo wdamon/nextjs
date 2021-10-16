@@ -4,13 +4,13 @@
         <title>Preception</title>
         <link>https://preceptionsangha.com</link>
         <description>A podcast on the precepts</description>
-        <lastBuildDate>Sat, 16 Oct 2021 01:56:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 02:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <image>
             <title>Preception</title>
-            <url>http://example.com/image.png</url>
+            <url>https://preceptionsangha.com/assets/blog/preception_cover.jpg</url>
             <link>https://preceptionsangha.com</link>
         </image>
         <copyright>All rights reserved 2021, William Damon and Evan Stanley</copyright>
@@ -20,8 +20,7 @@
             <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Episode 6]]></description>
             <content:encoded><![CDATA[https://preceptionsangha.com/assets/blog/episodes/not_lying/not_lying.mp3]]></content:encoded>
-            <author>preceptionsangha@gmail.com (Will Damon)</author>
-            <author>preceptionsangha@gmail.com (Evan S)</author>
+            <author>preceptionsangha@gmail.com (Will Damon and Evan S)</author>
             <enclosure url="https://preceptionsangha.com/assets/blog/episodes/not_lying/speak_truth.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -30,8 +29,7 @@
             <pubDate>Sun, 02 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Episode 5]]></description>
             <content:encoded><![CDATA[https://preceptionsangha.com/assets/blog/episodes/not_misusing_sex/not_misusing_sex.mp3]]></content:encoded>
-            <author>preceptionsangha@gmail.com (Will Damon)</author>
-            <author>preceptionsangha@gmail.com (Evan S)</author>
+            <author>preceptionsangha@gmail.com (Will Damon and Evan S)</author>
             <enclosure url="https://preceptionsangha.com/assets/blog/episodes/not_misusing_sex/not_misusing_sex.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -40,8 +38,7 @@
             <pubDate>Thu, 22 Apr 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Episode 4]]></description>
             <content:encoded><![CDATA[https://preceptionsangha.com/assets/blog/episodes/not_stealing/not_stealing.mp3]]></content:encoded>
-            <author>preceptionsangha@gmail.com (Will Damon)</author>
-            <author>preceptionsangha@gmail.com (Evan S)</author>
+            <author>preceptionsangha@gmail.com (Will Damon and Evan S)</author>
             <enclosure url="https://preceptionsangha.com/assets/blog/episodes/not_stealing/not_stealing.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -50,8 +47,7 @@
             <pubDate>Tue, 02 Mar 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Episode 3]]></description>
             <content:encoded><![CDATA[https://preceptionsangha.com/assets/blog/episodes/not_harming/not_harming.mp3]]></content:encoded>
-            <author>preceptionsangha@gmail.com (Will Damon)</author>
-            <author>preceptionsangha@gmail.com (Evan S)</author>
+            <author>preceptionsangha@gmail.com (Will Damon and Evan S)</author>
             <enclosure url="https://preceptionsangha.com/assets/blog/episodes/not_harming/acorns.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,8 +56,7 @@
             <pubDate>Mon, 22 Feb 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Episode 2]]></description>
             <content:encoded><![CDATA[https://preceptionsangha.com/assets/blog/episodes/pure-precepts/episode_2.mp3]]></content:encoded>
-            <author>preceptionsangha@gmail.com (Will Damon)</author>
-            <author>preceptionsangha@gmail.com (Evan S)</author>
+            <author>preceptionsangha@gmail.com (Will Damon and Evan S)</author>
             <enclosure url="https://preceptionsangha.com/assets/blog/episodes/pure-precepts/plant.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,8 +65,7 @@
             <pubDate>Mon, 11 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Episode 1: Taking Refuge]]></description>
             <content:encoded><![CDATA[https://preceptionsangha.com/assets/blog/episodes/refuges/refuges.mp3]]></content:encoded>
-            <author>preceptionsangha@gmail.com (Will Damon)</author>
-            <author>preceptionsangha@gmail.com (Evan S)</author>
+            <author>preceptionsangha@gmail.com (Will Damon and Evan S)</author>
             <enclosure url="https://preceptionsangha.com/assets/blog/episodes/refuges/heart.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
