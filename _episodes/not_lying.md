@@ -4,7 +4,7 @@ excerpt: 'Episode 6'
 coverImage: '/assets/blog/episodes/not_lying/speak_truth.jpeg'
 date: '2021-06-02'
 author:
-  name: Evan
+  name: Evan S
   picture: '/assets/blog/authors/Evan_author.jpg'
 ogImage:
   url: '/assets/blog/episodes/not_lying/speak_truth.jpeg'

@@ -4,7 +4,7 @@ excerpt: 'Episode 5'
 coverImage: '/assets/blog/episodes/not_misusing_sex/not_misusing_sex.jpg'
 date: '2021-05-02'
 author:
-  name: Will
+  name: Will Damon
   picture: '/assets/blog/authors/will.jpg'
 ogImage:
   url: '/assets/blog/episodes/not_misusing_sex/not_misusing_sex.jpg'

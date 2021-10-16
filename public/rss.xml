@@ -4,7 +4,7 @@
         <title>Preception</title>
         <link>https://preceptionsangha.com</link>
         <description>A podcast on the precepts</description>
-        <lastBuildDate>Wed, 13 Oct 2021 01:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 01:56:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -19,48 +19,60 @@
             <guid>https://preceptionsangha.com/episodes/not_lying</guid>
             <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Episode 6]]></description>
-            <content:encoded><![CDATA[/assets/blog/episodes/not_lying/not_lying.mp3]]></content:encoded>
-            <enclosure url="https://preceptionsangha.com//assets/blog/episodes/not_lying/speak_truth.jpeg" length="0" type="image/jpeg"/>
+            <content:encoded><![CDATA[https://preceptionsangha.com/assets/blog/episodes/not_lying/not_lying.mp3]]></content:encoded>
+            <author>preceptionsangha@gmail.com (Will Damon)</author>
+            <author>preceptionsangha@gmail.com (Evan S)</author>
+            <enclosure url="https://preceptionsangha.com/assets/blog/episodes/not_lying/speak_truth.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <link>https://preceptionsangha.com/episodes/not_misusing_sex</link>
             <guid>https://preceptionsangha.com/episodes/not_misusing_sex</guid>
             <pubDate>Sun, 02 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Episode 5]]></description>
-            <content:encoded><![CDATA[/assets/blog/episodes/not_misusing_sex/not_misusing_sex.mp3]]></content:encoded>
-            <enclosure url="https://preceptionsangha.com//assets/blog/episodes/not_misusing_sex/not_misusing_sex.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[https://preceptionsangha.com/assets/blog/episodes/not_misusing_sex/not_misusing_sex.mp3]]></content:encoded>
+            <author>preceptionsangha@gmail.com (Will Damon)</author>
+            <author>preceptionsangha@gmail.com (Evan S)</author>
+            <enclosure url="https://preceptionsangha.com/assets/blog/episodes/not_misusing_sex/not_misusing_sex.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <link>https://preceptionsangha.com/episodes/not_stealing</link>
             <guid>https://preceptionsangha.com/episodes/not_stealing</guid>
             <pubDate>Thu, 22 Apr 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Episode 4]]></description>
-            <content:encoded><![CDATA[/assets/blog/episodes/not_stealing/not_stealing.mp3]]></content:encoded>
-            <enclosure url="https://preceptionsangha.com//assets/blog/episodes/not_stealing/not_stealing.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[https://preceptionsangha.com/assets/blog/episodes/not_stealing/not_stealing.mp3]]></content:encoded>
+            <author>preceptionsangha@gmail.com (Will Damon)</author>
+            <author>preceptionsangha@gmail.com (Evan S)</author>
+            <enclosure url="https://preceptionsangha.com/assets/blog/episodes/not_stealing/not_stealing.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <link>https://preceptionsangha.com/episodes/not_harming</link>
             <guid>https://preceptionsangha.com/episodes/not_harming</guid>
             <pubDate>Tue, 02 Mar 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Episode 3]]></description>
-            <content:encoded><![CDATA[/assets/blog/episodes/not_harming/not_harming.mp3]]></content:encoded>
-            <enclosure url="https://preceptionsangha.com//assets/blog/episodes/not_harming/acorns.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[https://preceptionsangha.com/assets/blog/episodes/not_harming/not_harming.mp3]]></content:encoded>
+            <author>preceptionsangha@gmail.com (Will Damon)</author>
+            <author>preceptionsangha@gmail.com (Evan S)</author>
+            <enclosure url="https://preceptionsangha.com/assets/blog/episodes/not_harming/acorns.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <link>https://preceptionsangha.com/episodes/pure-precepts</link>
             <guid>https://preceptionsangha.com/episodes/pure-precepts</guid>
             <pubDate>Mon, 22 Feb 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Episode 2]]></description>
-            <content:encoded><![CDATA[/assets/blog/episodes/pure-precepts/episode_2.mp3]]></content:encoded>
-            <enclosure url="https://preceptionsangha.com//assets/blog/episodes/pure-precepts/plant.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[https://preceptionsangha.com/assets/blog/episodes/pure-precepts/episode_2.mp3]]></content:encoded>
+            <author>preceptionsangha@gmail.com (Will Damon)</author>
+            <author>preceptionsangha@gmail.com (Evan S)</author>
+            <enclosure url="https://preceptionsangha.com/assets/blog/episodes/pure-precepts/plant.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <link>https://preceptionsangha.com/episodes/refuges</link>
             <guid>https://preceptionsangha.com/episodes/refuges</guid>
             <pubDate>Mon, 11 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Episode 1: Taking Refuge]]></description>
-            <content:encoded><![CDATA[/assets/blog/episodes/refuges/refuges.mp3]]></content:encoded>
-            <enclosure url="https://preceptionsangha.com//assets/blog/episodes/refuges/heart.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[https://preceptionsangha.com/assets/blog/episodes/refuges/refuges.mp3]]></content:encoded>
+            <author>preceptionsangha@gmail.com (Will Damon)</author>
+            <author>preceptionsangha@gmail.com (Evan S)</author>
+            <enclosure url="https://preceptionsangha.com/assets/blog/episodes/refuges/heart.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
